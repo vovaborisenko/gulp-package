@@ -1,6 +1,6 @@
 {
-	"name": "svobodnyidostup",
-	"description": "свободный-доступ.рф",
+	"name": "site_name",
+	"description": "site_description",
 	"author": "Vladimir Borisenko",
 	"repository": {
 		"type": "git",
@@ -10,6 +10,7 @@
 	"dependencies": {
 		"jquery": "^3.3.1",
 		"jquery-lazy": "^1.7.10",
+		"jquery-mask-plugin": "^1.14.15",
 		"lazy-load-youtube-videos": "^0.1.0",
 		"slick-carousel": "^1.8.1"
 	},

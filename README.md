@@ -1,1 +1,0 @@
-# svobodnyi-dostup

@@ -7,7 +7,7 @@ module.exports = function() {
                     favicons: true,
                     online: false,
                     appleStartup: false,
-                    android: false,
+                    android: true,
                     firefox: false,
                     yandex: false,
                     windows: false,

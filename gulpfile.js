@@ -36,6 +36,6 @@ $.path.tasks.forEach(function(taskPath) {
 
 // BUILD
 $.gulp.task("default", $.gulp.series("clean", "sprite", "iconfont", "libs",
-    $.gulp.parallel("pug", "styles", "favicons", "images", "scripts", "server_conf"),
+    $.gulp.parallel("pug", "styles", "favicons", "images", "scripts", "server_conf", "fonts"),
     $.gulp.parallel("watch", "serve")
 ));

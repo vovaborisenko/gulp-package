@@ -34,7 +34,7 @@ Gulppack - сборка для автоматизации задач в повс
 
 Далее, используя ```cmd``` в Windows или Терминал Linux/macOS, проделайте следующие шаги:
 
-* скачайте сборку: ```git clone https://github.com/andreyalexeich/gulppack-pug.git```;
+* скачайте сборку: ```git clone https://github.com/vovaborisenko/gulp-package.git```;
 * установите ```gulp``` глобально: ```yarn global add gulp-cli```;
 * перейдите в скачанную папку со сборкой: ```cd gulppack-pug```;
 * введите команду, которая скачает необходимые компоненты для корректной работы нашей сборки, указанные в файле ```package.json```: ```yarn```;
@@ -85,7 +85,7 @@ Gulppack is a very useful gulp build for your front-end projects. Compile SCSS a
 
 Then using ```cmd``` in Windows or Terminal in Linux/macOS, please do the following:
 
-* clone the repository: ```git clone https://github.com/andreyalexeich/gulppack-pug.git```;
+* clone the repository: ```git clone https://github.com/vovaborisenko/gulp-package.git```;
 * install ```gulp``` globally: ```yarn global add gulp-cli```;
 * go to the folder: ```cd gulppack-pug```;
 * enter the command that downloads the required components: ```yarn```;
